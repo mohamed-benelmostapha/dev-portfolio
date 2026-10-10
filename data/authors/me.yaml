@@ -2,9 +2,9 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Mohamed EN EL MOSTAPHA
+  given: Mohamed
+  family: BEN EL MOSTAPHA
 postnominals: []
 status:
   icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
